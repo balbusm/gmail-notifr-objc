@@ -102,7 +102,7 @@
 				ORGANIZATIONNAME = ashchan.com;
 				TargetAttributes = {
 					1AFB7F03189FBDA000B82441 = {
-						DevelopmentTeam = 9A3W22M8YB;
+						DevelopmentTeam = 35QX6DSK65;
 						SystemCapabilities = {
 							com.apple.Sandbox = {
 								enabled = 1;
@@ -116,6 +116,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -237,11 +238,11 @@
 		1AFB7F36189FBDA100B82441 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = GmailNotifrHelper/GmailNotifrHelper.entitlements;
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = 35QX6DSK65;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "GmailNotifrHelper/GmailNotifrHelper-Prefix.pch";
 				INFOPLIST_FILE = "GmailNotifrHelper/GmailNotifrHelper-Info.plist";
@@ -256,11 +257,11 @@
 		1AFB7F37189FBDA100B82441 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = GmailNotifrHelper/GmailNotifrHelper.entitlements;
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = 35QX6DSK65;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "GmailNotifrHelper/GmailNotifrHelper-Prefix.pch";
 				INFOPLIST_FILE = "GmailNotifrHelper/GmailNotifrHelper-Info.plist";

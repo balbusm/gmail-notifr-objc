@@ -7,7 +7,7 @@
 //
 
 #import "GNPreferences.h"
-#import <SSKeychain.h>
+@import SSKeychain;
 #import <StartAtLoginController.h>
 #import "GNAccount.h"
 
